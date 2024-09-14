@@ -1,8 +1,9 @@
- package assignment.unit2;
 
 class Employee {
+    @SuppressWarnings("unused")
     private int id;
     private int salary;
+    @SuppressWarnings("unused")
     private String name;
 
     public String getFormattedSalary() {
