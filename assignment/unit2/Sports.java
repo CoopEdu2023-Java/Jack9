@@ -1,4 +1,3 @@
-package assignment.unit2;
 
 // 基类 Sports
 public class Sports {

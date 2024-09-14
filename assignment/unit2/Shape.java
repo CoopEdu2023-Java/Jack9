@@ -1,4 +1,3 @@
-package assignment.unit2;
 
 // 父类 Shape
 public class Shape {
