@@ -3,3 +3,5 @@ venv/
 ijava-1.3.0/
 .vscode/
 demo/
+*.gitignore
+*.txt
