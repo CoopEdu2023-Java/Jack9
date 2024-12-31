@@ -1,5 +1,6 @@
 {
     "java.project.importHints": false,
     "java.configuration.check": "disabled",
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.compile.nullAnalysis.mode": "automatic"
 }
