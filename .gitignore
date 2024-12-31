@@ -2,6 +2,7 @@
 venv/
 ijava-1.3.0/
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.json
 .gitignore
 =======
@@ -10,3 +11,8 @@ demo/
 *.gitignore
 *.txt
 >>>>>>> assignment/unit3
+=======
+demo/
+*.txt
+.gitignore
+>>>>>>> handout

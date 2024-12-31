@@ -1,6 +1,13 @@
 {
+<<<<<<< HEAD
     "java.project.importHints": false,
     "java.configuration.check": "disabled",
     "java.debug.settings.onBuildFailureProceed": true,
     "java.compile.nullAnalysis.mode": "automatic"
 }
+=======
+    "java.project.outputPath": "bin",
+    "java.project.sourcePaths": ["."]
+}
+
+>>>>>>> handout
